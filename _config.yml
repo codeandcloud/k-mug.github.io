@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Kerala Microsoft Users Group"
-email: "admin@k-mug.org"
+email: "mail@k-mug.net"
 description: "K-MUG is one of the most successful technical communities in India, which focus on Microsoft Technologies."
 baseurl: ""
-url: "https://k-mug.github.io"
+url: "http://k-mug.net"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-XXXXXXXX-X"
 googleAnalyticsSiteUrl: "k-mug.github.io"
@@ -24,9 +24,9 @@ siteVerification: "XXXXXXXXXXXXXX"
 organizerName: "Kerala Microsoft Users Group"
 organizerAlternateName: "K-MUG"
 organizerDescription: "K-MUG is one of the most successful technical communities in India, which focus on Microsoft Technologies. We create exciting projects and share experience about Microsoft technology with passion."
-organizerEmail: "admin@k-mug.org"
+organizerEmail: "mail@k-mug.net"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://kmug.org/"
+organizerLink: "http://k-mug.net"
 
 # Head
 metaKeywords: "event, kmug, k-mug, devfest, microsoft, programming, windows, azure, developers, kerala, technical, community"
@@ -47,7 +47,8 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/events/", text: "Events"}
+# - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/forms/4SSB3Jg94pYTPcjg1", text: "Take a session"}
 rightNavigationButtons:
@@ -90,7 +91,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Orion India Systems, Meeting Hall"
-eventLocationLink: "http://k-mug.org/logistics/"
+eventLocationLink: "http://k-mug.net/events/"
 eventStreetAddress: "103, Tejomaya"
 eventAddressLocality: "Infopark, Kochi"
 eventAddressLocalityRegion: "Kerala"
@@ -116,7 +117,7 @@ venueFeatures: ["1 huge screen", "Good enough sound system", "Located directly i
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "KMUG"
-twitterFeed: "http://k-mug.org/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "http://k-mug.net/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -160,7 +161,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://k-mug.org", text: "Kerala Microsoft Users Group"}
+   - {link: "http://k-mug.net", text: "Kerala Microsoft Users Group"}
    - {link: "https://msdn.microsoft.com", text: "MSDN"}
    - {link: "https://technet.microsoft.com/", text: "Technet"}
    - {link: "https://mva.microsoft.com/", text: "Microsoft Virtual Academy"}
@@ -168,7 +169,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:admin@k-mug.org", text: "admin@k-mug.org"}
+   - {link: "mailto:mail@k-mug.net", text: "mail@k-mug.net"}
  -
   title: "FAQ"
   links:
